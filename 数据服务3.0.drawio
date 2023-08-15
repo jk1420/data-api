@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T05:59:31.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="eGZVwTrO_mEEqIglk68r" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-15T06:06:02.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="XvSRIMVWBiClh7ttbKCi" version="21.6.8" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -310,7 +310,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KPDToTx7vnl3QfwpktBQ-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1042" width="408" height="408" as="geometry" />
+          <mxGeometry x="654" y="1042" width="408" height="408" as="geometry" />
         </mxCell>
         <mxCell id="KPDToTx7vnl3QfwpktBQ-17" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="1340" width="120" height="60" as="geometry" />
@@ -358,10 +358,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KPDToTx7vnl3QfwpktBQ-24" value="睿见XDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1130" width="390" height="60" as="geometry" />
+          <mxGeometry x="664" y="1130" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KPDToTx7vnl3QfwpktBQ-25" value="FS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPDToTx7vnl3QfwpktBQ-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.015;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KPDToTx7vnl3QfwpktBQ-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1240" as="sourcePoint" />
+            <mxPoint x="550" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KPDToTx7vnl3QfwpktBQ-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="556" y="1220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPDToTx7vnl3QfwpktBQ-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="KPDToTx7vnl3QfwpktBQ-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="40" as="sourcePoint" />
+            <mxPoint x="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KPDToTx7vnl3QfwpktBQ-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="KPDToTx7vnl3QfwpktBQ-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="40" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KPDToTx7vnl3QfwpktBQ-37" value="不允许互相访问" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontColor=#f43e3e;" vertex="1" connectable="0" parent="KPDToTx7vnl3QfwpktBQ-35">
+          <mxGeometry x="-0.025" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="38" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
