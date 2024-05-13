@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T08:30:57.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6CRCKraFV_QhJzkggWsa" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-13T08:40:15.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CW0P8jxUhDHpAm3XSqiP" version="24.4.0" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1764,10 +1764,10 @@
         <mxCell id="Z21ktLbyR7ar0IofKSW1-135" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、场景、时间范围)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
           <mxGeometry x="498" y="116" width="164.5" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-136" value="&lt;div&gt;品牌分类布局&lt;/div&gt;&lt;div&gt;街饮品牌Top20&lt;/div&gt;&lt;div&gt;热门街饮产品&lt;/div&gt;&lt;div&gt;风味总览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=middle;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-136" value="&lt;div&gt;品牌分类布局&lt;/div&gt;&lt;div&gt;街饮品牌Top20&lt;/div&gt;&lt;div&gt;热门街饮产品&lt;/div&gt;&lt;div&gt;街饮核心概念总览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=middle;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
           <mxGeometry x="498" y="169" width="164.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-141" value="&lt;div&gt;核心风味Top10&lt;/div&gt;&lt;div&gt;热门风味分析&lt;/div&gt;&lt;div&gt;热门风味分析趋势&lt;/div&gt;&lt;div&gt;核心维度&lt;/div&gt;&lt;div&gt;(风味、基底、小料、甜度、奶盖)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-141" value="&lt;div&gt;核心风味Top10&lt;/div&gt;&lt;div&gt;热门风味分析&lt;/div&gt;&lt;div&gt;热门风味分析趋势&lt;/div&gt;&lt;div&gt;核心概念维度&lt;/div&gt;&lt;div&gt;(风味、基底、小料、甜度、奶盖)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
           <mxGeometry x="498" y="235" width="164.5" height="90" as="geometry" />
         </mxCell>
       </root>
