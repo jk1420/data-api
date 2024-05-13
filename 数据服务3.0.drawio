@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T08:13:58.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="r-jhSJFKPDTsrrxf-DUN" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-13T08:15:18.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="hTa7qoYQEgyiQ2vAr8-h" version="24.4.0" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1755,7 +1755,7 @@
         <mxCell id="Z21ktLbyR7ar0IofKSW1-133" value="街饮" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-132">
           <mxGeometry width="181" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-134" value="视角&lt;div&gt;(概览、功效)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-132">
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-134" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、品牌)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-132">
           <mxGeometry x="8" y="29" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-135" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、场景、时间范围)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-132">
