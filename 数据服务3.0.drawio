@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T08:27:01.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fZnIbligOW5Jgqqyp107" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-13T08:30:57.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6CRCKraFV_QhJzkggWsa" version="24.4.0" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1456,9 +1456,6 @@
         <mxCell id="Z21ktLbyR7ar0IofKSW1-41" value="Units" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-38">
           <mxGeometry x="7.242033898305085" y="51" width="168.6359322033898" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-14" value="内部员工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="1800" width="560" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-100" y="1440" width="678.04" height="73.07" as="geometry" />
         </mxCell>
@@ -1476,21 +1473,6 @@
         </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-12" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-7">
           <mxGeometry x="494.57035294117617" y="26.3052" width="165.77245968056096" height="38.97066666666666" as="geometry" />
-        </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-15" value="数说食品饮料社媒库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-137" y="2198" width="167" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-42" value="数说食品饮料电商库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2198" width="170" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-48" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="2138" width="96.42" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-50" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-249" y="1801" width="96.42" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-51" value="权限中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="433" y="1801" width="60" height="449" as="geometry" />
         </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="233" y="130" width="1160" height="560" as="geometry" />
@@ -1710,62 +1692,83 @@
         <mxCell id="Z21ktLbyR7ar0IofKSW1-111" value="风味趋势服务ES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="753" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-117" value="数据结果库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-139" y="2141" width="559" height="47" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-142" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-250" y="1800" width="743" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-118" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="1850" width="96.42" height="280" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-14" value="内部员工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="110" width="560" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-120" value="数说茶饮O2O库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="260" y="2198" width="161" height="51" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-15" value="数说食品饮料社媒库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="113" y="398" width="167" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-132" value="" style="group;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="1849" width="181" height="200" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-42" value="数说食品饮料电商库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="310" y="398" width="170" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-121" value="社媒风味轮" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-137" y="1849" width="181" height="280" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-48" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry y="338" width="96.42" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-122" value="视角&lt;div&gt;(概览、功效)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-132" y="1878" width="165" height="30" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-50" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="1" y="1" width="96.42" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-123" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、人群性别、人群年龄、人群地区、场景、时间范围)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-131.5" y="1916" width="164.5" height="43" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-51" value="权限中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="683" y="1" width="60" height="449" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-124" value="&lt;div&gt;增速类型&lt;/div&gt;&lt;div&gt;(同比、环比)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-130.75" y="1969" width="164.5" height="43" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-117" value="数据结果库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="111" y="341" width="559" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-138" value="&lt;div&gt;风味轮图表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-129.75" y="2019" width="164.5" height="43" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-118" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry y="50" width="96.42" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-125" value="电商风味轮" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="51" y="1849" width="181" height="280" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-120" value="数说茶饮O2O库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="510" y="398" width="161" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-127" value="视角&lt;div&gt;(概览、功效)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="59" y="1878" width="165" height="30" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-132" value="" style="group;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;container=0;" vertex="1" connectable="0" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="490" y="49" width="181" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-128" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、场景、时间范围)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="59" y="1916" width="164.5" height="43" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-121" value="社媒风味轮" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="113" y="49" width="181" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-129" value="&lt;div&gt;增速类型&lt;/div&gt;&lt;div&gt;(同比、环比)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="59" y="1969" width="164.5" height="43" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-122" value="视角&lt;div&gt;(概览、功效)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#3399FF;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="118" y="78" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-140" value="&lt;div&gt;风味轮图表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2019" width="164.5" height="43" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-123" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、人群性别、人群年龄、人群地区、场景、时间范围)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#3399FF;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="118.5" y="116" width="164.5" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-133" value="街饮" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1849" width="181" height="280" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-124" value="&lt;div&gt;增速类型&lt;/div&gt;&lt;div&gt;(同比、环比)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#3399FF;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="119.25" y="169" width="164.5" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-134" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、品牌)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="248" y="1878" width="165" height="30" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-138" value="&lt;div&gt;风味轮图表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#3399FF;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="120.25" y="219" width="164.5" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-135" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、场景、时间范围)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="248" y="1916" width="164.5" height="43" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-125" value="电商风味轮" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="301" y="49" width="181" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-136" value="&lt;div&gt;品牌分类布局&lt;/div&gt;&lt;div&gt;街饮品牌Top20&lt;/div&gt;&lt;div&gt;热门街饮产品&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="248" y="1969" width="164.5" height="60" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-127" value="视角&lt;div&gt;(概览、功效)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="309" y="78" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-141" value="&lt;div&gt;核心风味Top10&lt;/div&gt;&lt;div&gt;热门风味分析&lt;/div&gt;&lt;div&gt;热门风味分析趋势&lt;/div&gt;&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(风味、基底、小料、甜度、奶盖)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="248" y="2035" width="164.5" height="90" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-128" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、场景、时间范围)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="309" y="116" width="164.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-129" value="&lt;div&gt;增速类型&lt;/div&gt;&lt;div&gt;(同比、环比)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="309" y="169" width="164.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-140" value="&lt;div&gt;风味轮图表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="310" y="219" width="164.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-133" value="街饮" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="490" y="49" width="181" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-134" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、品牌)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="498" y="78" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-135" value="&lt;div&gt;维度&lt;/div&gt;&lt;div&gt;(品类、场景、时间范围)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="498" y="116" width="164.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-136" value="&lt;div&gt;品牌分类布局&lt;/div&gt;&lt;div&gt;街饮品牌Top20&lt;/div&gt;&lt;div&gt;热门街饮产品&lt;/div&gt;&lt;div&gt;风味总览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=middle;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="498" y="169" width="164.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-141" value="&lt;div&gt;核心风味Top10&lt;/div&gt;&lt;div&gt;热门风味分析&lt;/div&gt;&lt;div&gt;热门风味分析趋势&lt;/div&gt;&lt;div&gt;核心维度&lt;/div&gt;&lt;div&gt;(风味、基底、小料、甜度、奶盖)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Z21ktLbyR7ar0IofKSW1-142">
+          <mxGeometry x="498" y="235" width="164.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
