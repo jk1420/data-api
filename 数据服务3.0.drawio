@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T09:49:34.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bYO6w58GNVuoCYmfb7pH" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-13T11:47:31.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ake0k-ATmMhorira4Pmd" version="24.4.0" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1670,16 +1670,10 @@
           <mxGeometry x="720" y="1139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-142" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-250" y="1800" width="743" height="450" as="geometry" />
+          <mxGeometry x="-248" y="1800" width="743" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-14" value="内部员工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
           <mxGeometry x="110" width="560" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-15" value="数说食品饮料社媒库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
-          <mxGeometry x="113" y="398" width="167" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-42" value="数说食品饮料电商库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
-          <mxGeometry x="310" y="398" width="170" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-48" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
           <mxGeometry y="338" width="96.42" height="108" as="geometry" />
@@ -1690,14 +1684,11 @@
         <mxCell id="Z21ktLbyR7ar0IofKSW1-51" value="权限中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
           <mxGeometry x="683" y="1" width="60" height="449" as="geometry" />
         </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-117" value="数据结果库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
-          <mxGeometry x="111" y="341" width="559" height="47" as="geometry" />
+        <mxCell id="Z21ktLbyR7ar0IofKSW1-117" value="数说数据结果库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
+          <mxGeometry x="110" y="399" width="559" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-118" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
           <mxGeometry y="50" width="96.42" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="Z21ktLbyR7ar0IofKSW1-120" value="数说茶饮O2O库" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1">
-          <mxGeometry x="510" y="398" width="161" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Z21ktLbyR7ar0IofKSW1-132" value="" style="group;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;container=0;" parent="Z21ktLbyR7ar0IofKSW1-142" vertex="1" connectable="0">
           <mxGeometry x="490" y="49" width="181" height="200" as="geometry" />
@@ -1754,6 +1745,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-24" y="-61" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CfNTdonZfRRDuvxpHVnn-1" value="YIP StarRocks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-138" y="2145" width="559" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
