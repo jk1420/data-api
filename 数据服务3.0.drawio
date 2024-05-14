@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T06:27:56.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qJa_s4wmkYmW7LFu6EP1" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-14T06:39:03.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="AeWNcJ23vAiAFcOfAKY_" version="24.4.0" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2234,10 +2234,10 @@
         <mxCell id="UqGVGlI3MMXNgmbDgLH_-139" value="展示层组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1349" y="2100" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UqGVGlI3MMXNgmbDgLH_-140" value="VPN/HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1230" y="2040" width="440" height="40" as="geometry" />
+        <mxCell id="UqGVGlI3MMXNgmbDgLH_-140" value="HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="2040" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UqGVGlI3MMXNgmbDgLH_-141" value="链接方式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UqGVGlI3MMXNgmbDgLH_-141" value="请求方式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="2040" width="119" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UqGVGlI3MMXNgmbDgLH_-142" value="HTML、JavaScript、CSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -2329,6 +2329,12 @@
         </mxCell>
         <mxCell id="UqGVGlI3MMXNgmbDgLH_-206" value="logback" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1035.06" y="2282.5" width="96.06" height="24.27" as="geometry" />
+        </mxCell>
+        <mxCell id="UqGVGlI3MMXNgmbDgLH_-207" value="Restful" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="2040" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UqGVGlI3MMXNgmbDgLH_-208" value="接口交互" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-1059" y="2040" width="119" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
