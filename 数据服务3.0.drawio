@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T06:26:48.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="C8DqWAYC_z37SwkXq7GC" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-14T06:27:56.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qJa_s4wmkYmW7LFu6EP1" version="24.4.0" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2240,7 +2240,7 @@
         <mxCell id="UqGVGlI3MMXNgmbDgLH_-141" value="链接方式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="2040" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UqGVGlI3MMXNgmbDgLH_-142" value="HTML、JavaScript、CSS、Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UqGVGlI3MMXNgmbDgLH_-142" value="HTML、JavaScript、CSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1229" y="2100" width="439" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UqGVGlI3MMXNgmbDgLH_-143" value="外部系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
