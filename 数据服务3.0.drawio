@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T06:18:31.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LhFnLtE8yONt1fSaK9VW" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-01T06:23:11.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AIyd-kE79de2wktCMTWy" version="24.6.4" type="github" pages="5">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2583,7 +2583,7 @@
           <mxGeometry x="-248" y="2164" width="96.42" height="108" as="geometry" />
         </mxCell>
         <mxCell id="wt2DkVp9YPqk7kmyE_lM-24" value="数说数据结果库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-138" y="2166" width="378" height="104" as="geometry" />
+          <mxGeometry x="-138" y="2166" width="558" height="104" as="geometry" />
         </mxCell>
         <mxCell id="wt2DkVp9YPqk7kmyE_lM-36" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-120" y="1860" width="520" height="31" as="geometry" />
@@ -2644,9 +2644,6 @@
         </mxCell>
         <mxCell id="wt2DkVp9YPqk7kmyE_lM-37" value="数据下载" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="wt2DkVp9YPqk7kmyE_lM-39">
           <mxGeometry x="7.513812154696132" y="190.3448275862069" width="145.41436464088397" height="36.41379310344828" as="geometry" />
-        </mxCell>
-        <mxCell id="wt2DkVp9YPqk7kmyE_lM-41" value="黑名单词库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2167" width="170" height="103" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
