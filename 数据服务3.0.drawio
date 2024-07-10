@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T08:03:37.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="X2c1vVqJ2RFu5yIRGuTs" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-10T08:05:36.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="u0vFBiPR6TAsc1LK27QE" version="24.6.4" type="github" pages="6">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3109,7 +3109,7 @@
         <mxCell id="w231um_aukl5rbWGUIOz-35" value="Swagger" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1137.06" y="2196" width="97.06" height="24.27" as="geometry" />
         </mxCell>
-        <mxCell id="w231um_aukl5rbWGUIOz-36" value="JPA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="w231um_aukl5rbWGUIOz-36" value="MyBatis Plus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1036.06" y="2196" width="96.06" height="24.27" as="geometry" />
         </mxCell>
         <mxCell id="w231um_aukl5rbWGUIOz-37" value="JDK17" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
