@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T08:50:38.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="j_qKluJzgp-qiki6FwYm" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-11T09:10:02.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fZAxBGKVvFO-lZfW-wlf" version="24.6.4" type="github" pages="6">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="数据服务3.0">
     <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2967,54 +2967,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0wVVXkH_TUoDYeSSpMpl" name="长安">
-    <mxGraphModel dx="2643" dy="-660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3088" dy="-431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w231um_aukl5rbWGUIOz-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1226" y="2161" width="436" height="199" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1270" y="2950" width="600" height="800" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;长安用户统一认证中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="2972" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-3" value="洞察平台API服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="3147" width="540" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-18" value="申&lt;div&gt;请&lt;/div&gt;&lt;div&gt;鉴&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="-1130" y="3037" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-19" value="鉴权结果" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="-890" y="3037" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-21" value="结果库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="3326" width="540" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-22" value="实&lt;div&gt;时&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="-1010" y="3216" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-23" value="AI智能引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="3506" width="220" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-26" value="数说知识库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="3662" width="210" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-27" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;导&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;入&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="-1170" y="3581" width="70" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-28" value="分&lt;div&gt;析&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;果&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="-1140" y="3398" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-29" value="业务标签引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-940" y="3506" width="240" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-31" value="AI&lt;div&gt;结&lt;/div&gt;&lt;div&gt;果&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="-923" y="3398" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="IMn1g0htrqQR5gAjTH-i-33" value="&lt;div&gt;打&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;果&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="-783" y="3398" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="w231um_aukl5rbWGUIOz-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1226" y="2370" width="586" height="70" as="geometry" />
@@ -3352,6 +3310,54 @@
             <mxPoint x="550.3731343283582" y="137.2340425531915" as="sourcePoint" />
             <mxPoint x="587.6865671641791" y="146.38297872340425" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1270" y="2950" width="540" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;长安用户统一认证中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1243" y="2958.35" width="486" height="39.65" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-3" value="洞察平台API服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1243" y="3095.23" width="486" height="34.77" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-18" value="申&lt;div&gt;请&lt;/div&gt;&lt;div&gt;鉴&lt;/div&gt;&lt;div&gt;权&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="-1144" y="3000.475" width="63" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-19" value="鉴&lt;div&gt;权&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;果&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="-928" y="3000.475" width="63" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-21" value="结果库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1244.5" y="3233.55" width="486" height="36.45" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-22" value="结&lt;div&gt;果&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;&lt;div&gt;库&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" parent="1" vertex="1">
+          <mxGeometry x="-1038" y="3275" width="63" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-23" value="算法服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1223.5" y="3521.5" width="156" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-26" value="社媒数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-1238" y="3643" width="473" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IMn1g0htrqQR5gAjTH-i-29" value="ETL服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1244.5" y="3368" width="483" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="qaHfBCV9nw0hjxWYb-h4-69" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;&lt;div&gt;清&lt;/div&gt;&lt;div&gt;洗&lt;/div&gt;" style="shape=doubleArrow;whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-1204.75" y="3431.5" width="118.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qaHfBCV9nw0hjxWYb-h4-71" value="社&lt;div&gt;媒&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;&lt;div&gt;户&lt;/div&gt;" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1175.5" y="3556.5" width="60" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qaHfBCV9nw0hjxWYb-h4-72" value="社&lt;div&gt;媒&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;&lt;div&gt;帖&lt;/div&gt;" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010.5" y="3401" width="60" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="qaHfBCV9nw0hjxWYb-h4-73" value="社&lt;div&gt;媒&lt;/div&gt;&lt;div&gt;视&lt;/div&gt;&lt;div&gt;频&lt;/div&gt;" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-929.5" y="3401" width="60" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="qaHfBCV9nw0hjxWYb-h4-74" value="社&lt;div&gt;媒&lt;/div&gt;&lt;div&gt;图&lt;/div&gt;&lt;div&gt;片&lt;/div&gt;" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850.5" y="3401" width="60" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="qaHfBCV9nw0hjxWYb-h4-77" value="实&lt;div&gt;时&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="-1036" y="3132" width="63" height="98.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
