@@ -3893,7 +3893,7 @@
         <mxCell id="KHusI6ZN1_GWUftKsNHb-73" value="" style="group" vertex="1" connectable="0" parent="KHusI6ZN1_GWUftKsNHb-91">
           <mxGeometry x="37.65279007971657" y="339.99999999999994" width="424.80070859167404" height="459.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="KHusI6ZN1_GWUftKsNHb-72" value="应用&amp;amp;大数据计算物理集群" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="KHusI6ZN1_GWUftKsNHb-73">
+        <mxCell id="KHusI6ZN1_GWUftKsNHb-72" value="应用&amp;amp;大数据计算物理机群" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="KHusI6ZN1_GWUftKsNHb-73">
           <mxGeometry width="424.80070859167404" height="459.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="KHusI6ZN1_GWUftKsNHb-40" value="" style="group;verticalAlign=top;" vertex="1" connectable="0" parent="KHusI6ZN1_GWUftKsNHb-73">
@@ -3962,7 +3962,7 @@
         <mxCell id="KHusI6ZN1_GWUftKsNHb-74" value="" style="group" vertex="1" connectable="0" parent="KHusI6ZN1_GWUftKsNHb-91">
           <mxGeometry x="623.6846767050487" y="339.99999999999994" width="424.80070859167404" height="459.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="KHusI6ZN1_GWUftKsNHb-61" value="GPU物理集群" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=bottom;" vertex="1" parent="KHusI6ZN1_GWUftKsNHb-74">
+        <mxCell id="KHusI6ZN1_GWUftKsNHb-61" value="大模型物理机群" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=bottom;" vertex="1" parent="KHusI6ZN1_GWUftKsNHb-74">
           <mxGeometry width="424.80070859167404" height="459.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="KHusI6ZN1_GWUftKsNHb-42" value="" style="group" vertex="1" connectable="0" parent="KHusI6ZN1_GWUftKsNHb-74">
