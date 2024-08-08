@@ -3857,7 +3857,7 @@
         <mxCell id="Rm4BSFzS0rja4q27dqpH-68" value="N16" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="NGRT4WiSU-4YB74k7Qth-82" vertex="1">
           <mxGeometry x="116.02714337473088" y="60.70656370656371" width="31.238077062427546" height="17.98712998712999" as="geometry" />
         </mxCell>
-        <mxCell id="NGRT4WiSU-4YB74k7Qth-53" value="GPU服务节点&lt;div&gt;S-GPT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="totvgIi_DSdTwUY4I70D-2" vertex="1">
+        <mxCell id="NGRT4WiSU-4YB74k7Qth-53" value="GPU算法节点&lt;div&gt;S-GPT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="totvgIi_DSdTwUY4I70D-2" vertex="1">
           <mxGeometry x="751.1919938002981" y="581.4500367714654" width="144.51787540983602" height="57.81577495863212" as="geometry" />
         </mxCell>
         <mxCell id="NGRT4WiSU-4YB74k7Qth-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="totvgIi_DSdTwUY4I70D-2" source="Rm4BSFzS0rja4q27dqpH-120" target="NGRT4WiSU-4YB74k7Qth-53" edge="1">
