@@ -2690,6 +2690,62 @@
         <mxCell id="QXirC703e5c5SIKd2KJQ-37" value="根据参数构造dsl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QXirC703e5c5SIKd2KJQ-1">
           <mxGeometry x="61.2265576102418" y="396.9997341293995" width="97.63869132290186" height="30.1693572539586" as="geometry" />
         </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="2520" width="490" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;权限&lt;br style=&quot;font-size: 14px;&quot;&gt;授权&lt;br style=&quot;font-size: 14px;&quot;&gt;中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="2550" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-3" value="风味数字化趋势" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="2550" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-4" value="数说&lt;br style=&quot;font-size: 14px;&quot;&gt;结果库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="2550" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;width=27;endSize=5.67;fontSize=14;" edge="1" parent="1" source="4Vk32iJpuaptwHK-NIqH-3" target="4Vk32iJpuaptwHK-NIqH-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1120" y="2619.3" as="sourcePoint" />
+            <mxPoint x="-1210" y="2581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-6" value="申请鉴权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="4Vk32iJpuaptwHK-NIqH-5">
+          <mxGeometry x="0.1455" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;width=27;endSize=5.67;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-930" y="2700" as="sourcePoint" />
+            <mxPoint x="-1040" y="2700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-8" value="结果数据统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="4Vk32iJpuaptwHK-NIqH-7">
+          <mxGeometry x="0.1455" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endWidth=31;endSize=6.67;width=27;" edge="1" parent="1" source="4Vk32iJpuaptwHK-NIqH-3" target="4Vk32iJpuaptwHK-NIqH-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1010" y="2630" as="sourcePoint" />
+            <mxPoint x="-960" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;结果数据导入&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4Vk32iJpuaptwHK-NIqH-9">
+          <mxGeometry x="-0.4" y="4" relative="1" as="geometry">
+            <mxPoint x="17" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endWidth=31;endSize=6.67;width=27;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1220" y="2700" as="sourcePoint" />
+            <mxPoint x="-1110" y="2700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Vk32iJpuaptwHK-NIqH-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;令牌监测结果&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4Vk32iJpuaptwHK-NIqH-11">
+          <mxGeometry x="-0.4" y="4" relative="1" as="geometry">
+            <mxPoint x="17" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
