@@ -8007,69 +8007,76 @@
         <mxCell id="3EZAfagqi_0fVHzS-YOr-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeWidth=2;" parent="1" source="3EZAfagqi_0fVHzS-YOr-125" target="3EZAfagqi_0fVHzS-YOr-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-1" value="不涉及系统变更" style="rounded=0;html=1;align=left;verticalAlign=top;fontColor=light-dark(#ef1515, #ededed);" vertex="1" parent="1">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-1" value="不涉及系统变更" style="rounded=0;html=1;align=left;verticalAlign=top;fontColor=light-dark(#ef1515, #ededed);" parent="1" vertex="1">
           <mxGeometry x="-1260" y="180" width="740" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-2" value="修改映射关系/标签值解析方式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-2" value="修改映射关系/标签值解析方式" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1198.3700000000001" y="260" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-3" value="入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-3" value="入库" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-720" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RqQ0xDP3vibD5BDfnvqq-3">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="RqQ0xDP3vibD5BDfnvqq-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-980.46" y="310" as="sourcePoint" />
             <mxPoint x="-930.46" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-7" value="重新跑数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RqQ0xDP3vibD5BDfnvqq-4">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-7" value="重新跑数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RqQ0xDP3vibD5BDfnvqq-4" vertex="1" connectable="0">
           <mxGeometry x="-0.1784" y="-3" relative="1" as="geometry">
             <mxPoint x="-1" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-5" value="&lt;font style=&quot;color: light-dark(rgb(238, 17, 17), rgb(237, 237, 237));&quot;&gt;涉及平台变更&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1261" y="410" width="1100" height="266" as="geometry" />
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-5" value="&lt;font style=&quot;color: light-dark(rgb(238, 17, 17), rgb(237, 237, 237));&quot;&gt;涉及平台变更&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontColor=light-dark(#ec0e0e, #ededed);" parent="1" vertex="1">
+          <mxGeometry x="-1261" y="430" width="1241" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-6" value="1、新增、修改、删除标签&lt;div&gt;2、变更的标签值涉及统计运算&lt;/div&gt;&lt;div&gt;3、中间结果计算规则变更&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="XEeqS5R_kebbPK2i6tkT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqQ0xDP3vibD5BDfnvqq-6" target="XEeqS5R_kebbPK2i6tkT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEeqS5R_kebbPK2i6tkT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqQ0xDP3vibD5BDfnvqq-6" target="XEeqS5R_kebbPK2i6tkT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-6" value="1、新增、修改、删除标签&lt;div&gt;2、变更的标签值涉及统计运算&lt;/div&gt;&lt;div&gt;3、中间结果计算规则变更&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-1231" y="491.5" width="190" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqQ0xDP3vibD5BDfnvqq-8" target="RqQ0xDP3vibD5BDfnvqq-11">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RqQ0xDP3vibD5BDfnvqq-8" target="RqQ0xDP3vibD5BDfnvqq-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-8" value="入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-932.5" y="517" width="120" height="80" as="geometry" />
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-8" value="入库" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="517.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RqQ0xDP3vibD5BDfnvqq-6" target="RqQ0xDP3vibD5BDfnvqq-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1041" y="556.5" as="sourcePoint" />
-            <mxPoint x="-781" y="556.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-10" value="重新跑数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RqQ0xDP3vibD5BDfnvqq-9">
-          <mxGeometry x="-0.1784" y="-3" relative="1" as="geometry">
-            <mxPoint x="-1" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqQ0xDP3vibD5BDfnvqq-11" target="RqQ0xDP3vibD5BDfnvqq-12">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RqQ0xDP3vibD5BDfnvqq-11" target="RqQ0xDP3vibD5BDfnvqq-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-11" value="修改平台后端代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-773.5" y="517" width="120" height="80" as="geometry" />
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-11" value="修改平台后端代码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-616.5" y="517.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqQ0xDP3vibD5BDfnvqq-12" target="RqQ0xDP3vibD5BDfnvqq-13">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RqQ0xDP3vibD5BDfnvqq-12" target="RqQ0xDP3vibD5BDfnvqq-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-12" value="修改平台前端代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-626" y="516" width="120" height="80" as="geometry" />
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-12" value="修改平台前端代码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-469" y="516.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqQ0xDP3vibD5BDfnvqq-13" target="RqQ0xDP3vibD5BDfnvqq-14">
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RqQ0xDP3vibD5BDfnvqq-13" target="RqQ0xDP3vibD5BDfnvqq-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-13" value="测试" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-466" y="516" width="120" height="80" as="geometry" />
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-13" value="测试" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-309" y="516.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RqQ0xDP3vibD5BDfnvqq-14" value="发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-313.5" y="516" width="120" height="80" as="geometry" />
+        <mxCell id="RqQ0xDP3vibD5BDfnvqq-14" value="发布" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-156.5" y="516.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEeqS5R_kebbPK2i6tkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEeqS5R_kebbPK2i6tkT-2" target="RqQ0xDP3vibD5BDfnvqq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEeqS5R_kebbPK2i6tkT-2" value="通过原始社媒、垂媒数据重新跑数（成本较大）" style="ellipse;whiteSpace=wrap;html=1;fontColor=light-dark(#ec0e0e, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="-977.8100000000001" y="446" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XEeqS5R_kebbPK2i6tkT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XEeqS5R_kebbPK2i6tkT-3" target="RqQ0xDP3vibD5BDfnvqq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEeqS5R_kebbPK2i6tkT-3" value="通过已有数据重新跑数（1人天）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-978.37" y="585" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
