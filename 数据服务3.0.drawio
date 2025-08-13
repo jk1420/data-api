@@ -8386,7 +8386,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DUFJZ2Spu6xwmiX0vyEr-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="-400" width="2260" height="1370" as="geometry" />
+          <mxGeometry x="240" y="-490" width="2260" height="1370" as="geometry" />
         </mxCell>
         <mxCell id="DUFJZ2Spu6xwmiX0vyEr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="DUFJZ2Spu6xwmiX0vyEr-14">
           <mxGeometry x="14" width="2246" height="1370" as="geometry" />
@@ -8555,9 +8555,6 @@
         </mxCell>
         <mxCell id="GWmMl4ImPabO-RA1Lzsw-46" value="&lt;div&gt;配置垂媒求研究结果入库job&lt;br&gt;(product_settings_flow)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="DUFJZ2Spu6xwmiX0vyEr-14" vertex="1">
           <mxGeometry x="1205" y="824" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GWmMl4ImPabO-RA1Lzsw-47" value="" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="DUFJZ2Spu6xwmiX0vyEr-14" vertex="1">
-          <mxGeometry x="645" y="839" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GWmMl4ImPabO-RA1Lzsw-48" value="changan_insight_result" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="DUFJZ2Spu6xwmiX0vyEr-14" vertex="1">
           <mxGeometry x="1485" y="616" width="160" height="40" as="geometry" />
